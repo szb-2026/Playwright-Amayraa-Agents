@@ -1,0 +1,368 @@
+- generic [active] [ref=f4e1]:
+  - main [ref=f4e2]:
+    - generic [ref=f4e5]:
+      - link [ref=f4e7] [cursor=pointer]:
+        - /url: /us
+        - img "Amayraa" [ref=f4e8]
+      - navigation [ref=f4e10]:
+        - list [ref=f4e11]:
+          - listitem [ref=f4e12]:
+            - link "Shirting " [ref=f4e13] [cursor=pointer]:
+              - /url: /us/categories/shirting
+              - text: Shirting
+              - generic [ref=f4e14]: 
+          - listitem [ref=f4e15]:
+            - link "Tops " [ref=f4e16] [cursor=pointer]:
+              - /url: /us/categories/tops
+              - text: Tops
+              - generic [ref=f4e17]: 
+          - listitem [ref=f4e18]:
+            - link "Lounge " [ref=f4e19] [cursor=pointer]:
+              - /url: /us/categories/lounge
+              - text: Lounge
+              - generic [ref=f4e20]: 
+          - listitem [ref=f4e21]:
+            - link "Dresses " [ref=f4e22] [cursor=pointer]:
+              - /url: /us/categories/dresses
+              - text: Dresses
+              - generic [ref=f4e23]: 
+          - listitem [ref=f4e24]:
+            - link "Occasion " [ref=f4e25] [cursor=pointer]:
+              - /url: /us/categories/occasion
+              - text: Occasion
+              - generic [ref=f4e26]: 
+          - listitem [ref=f4e27]:
+            - link "About" [ref=f4e28] [cursor=pointer]:
+              - /url: /us/about-us
+      - list [ref=f4e30]:
+        - listitem [ref=f4e31]:
+          - link "" [ref=f4e32] [cursor=pointer]:
+            - /url: "#canvasSearch"
+        - listitem [ref=f4e34]:
+          - link "" [ref=f4e35] [cursor=pointer]:
+            - /url: "#authModal"
+        - listitem [ref=f4e37]:
+          - link " 0" [ref=f4e38] [cursor=pointer]:
+            - /url: "#authModal"
+            - generic [ref=f4e39]: 
+            - generic [ref=f4e40]: "0"
+        - listitem [ref=f4e41]:
+          - link " 0" [ref=f4e42] [cursor=pointer]:
+            - /url: "#shoppingCart"
+            - generic [ref=f4e43]: 
+            - generic [ref=f4e44]: "0"
+    - generic [ref=f4e45]:
+      - generic [ref=f4e48]:
+        - generic [ref=f4e49]:
+          - link "Home" [ref=f4e50] [cursor=pointer]:
+            - /url: /us
+          - generic [ref=f4e51]: 
+          - link "Comfort" [ref=f4e52] [cursor=pointer]:
+            - /url: /us/categories/comfort
+          - generic [ref=f4e53]: 
+          - generic [ref=f4e54]: Plus-Size Linen Dress
+        - generic [ref=f4e55]:
+          - link "" [ref=f4e56] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f4e58] [cursor=pointer]:
+            - /url: "#"
+          - link "" [ref=f4e60] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=f4e65]:
+        - generic [ref=f4e68]:
+          - generic [ref=f4e70]:
+            - button "View product image 1" [pressed] [ref=f4e71] [cursor=pointer]:
+              - img "front view" [ref=f4e73]
+            - button "View product image 2" [ref=f4e74] [cursor=pointer]:
+              - img "side view" [ref=f4e76]
+            - button "View product image 3" [ref=f4e77] [cursor=pointer]:
+              - img "back view" [ref=f4e79]
+            - button "View product image 4" [ref=f4e80] [cursor=pointer]:
+              - img "three quarter view" [ref=f4e82]
+            - button "View product image 5" [ref=f4e83] [cursor=pointer]:
+              - img "fabric detail" [ref=f4e85]
+            - button "View product image 6" [ref=f4e86] [cursor=pointer]:
+              - img "construction detail" [ref=f4e88]
+            - button "View product image 7" [ref=f4e89] [cursor=pointer]:
+              - img "pocket" [ref=f4e91]
+          - generic [ref=f4e92]:
+            - generic [ref=f4e94]:
+              - img "front view" [ref=f4e95]
+              - img "side view"
+              - img "back view"
+              - img "three quarter view"
+              - img "fabric detail"
+              - img "construction detail"
+              - img "pocket"
+            - button "Previous product image" [ref=f4e96] [cursor=pointer]: prev
+            - button "Next product image" [ref=f4e97] [cursor=pointer]: next
+        - generic [ref=f4e100]:
+          - heading "Plus-Size Linen Dress" [level=5] [ref=f4e102]
+          - generic [ref=f4e103]: Out of stock
+          - generic [ref=f4e105]: $40.00
+          - paragraph [ref=f4e108]: A relaxed dress graded for plus sizes in Textured Linen. Drapes comfortably without clinging.
+          - generic [ref=f4e110]:
+            - generic [ref=f4e111]:
+              - generic [ref=f4e112]: "Size: XS"
+              - button "Find your size" [ref=f4e113] [cursor=pointer]
+            - generic [ref=f4e114]:
+              - radio "XS" [checked] [ref=f4e115]
+              - paragraph [ref=f4e117] [cursor=pointer]: XS
+              - radio "S" [ref=f4e118]
+              - paragraph [ref=f4e120] [cursor=pointer]: S
+              - radio "M" [ref=f4e121]
+              - paragraph [ref=f4e123] [cursor=pointer]: M
+              - radio "L" [ref=f4e124]
+              - paragraph [ref=f4e126] [cursor=pointer]: L
+              - radio "XL" [ref=f4e127]
+              - paragraph [ref=f4e129] [cursor=pointer]: XL
+          - generic [ref=f4e130]:
+            - generic [ref=f4e131]: Quantity
+            - generic [ref=f4e132]:
+              - generic [ref=f4e133] [cursor=pointer]: "-"
+              - textbox [ref=f4e134]: "1"
+              - generic [ref=f4e135] [cursor=pointer]: +
+          - generic [ref=f4e136]:
+            - generic [ref=f4e137]:
+              - link "Out of Stock" [ref=f4e138] [cursor=pointer]:
+                - /url: "#"
+              - link "" [ref=f4e140] [cursor=pointer]:
+                - /url: "#authModal"
+            - generic [ref=f4e142]:
+              - text: Login before checking out.
+              - link "Login here" [ref=f4e143] [cursor=pointer]:
+                - /url: /us/account
+          - generic [ref=f4e144]:
+            - generic [ref=f4e146]:
+              - generic [ref=f4e148]:
+                - generic [ref=f4e149]: 
+                - paragraph [ref=f4e151]: "Estimate delivery times: 12-26 days (International), 3-6 days (United States)."
+              - generic [ref=f4e153]:
+                - generic [ref=f4e154]: 
+                - paragraph [ref=f4e156]: Return within 30 days of purchase. Duties & taxes are non-refundable.
+            - generic [ref=f4e158]:
+              - generic [ref=f4e159]: 
+              - paragraph [ref=f4e160]: Guarantee Safe Checkout
+      - generic [ref=f4e166]:
+        - list [ref=f4e167]:
+          - listitem [ref=f4e168] [cursor=pointer]: Description
+          - listitem [ref=f4e169] [cursor=pointer]: Additional Information
+          - listitem [ref=f4e170] [cursor=pointer]: Review
+          - listitem [ref=f4e171] [cursor=pointer]: Shipping
+          - listitem [ref=f4e172] [cursor=pointer]: Return Policies
+        - generic [ref=f4e175]:
+          - paragraph [ref=f4e176]: A relaxed dress graded for plus sizes in Textured Linen. Drapes comfortably without clinging.
+          - generic [ref=f4e177]:
+            - generic [ref=f4e178]:
+              - heading "Features" [level=3] [ref=f4e179]
+              - list [ref=f4e180]:
+                - listitem [ref=f4e181]: Front button placket
+                - listitem [ref=f4e182]: Adjustable sleeve tabs
+                - listitem [ref=f4e183]: Babaton embroidered crest at placket and hem
+              - heading "Materials & Care" [level=3] [ref=f4e184]
+              - list [ref=f4e185]:
+                - listitem [ref=f4e186]: "Content: 100% Linen"
+                - listitem [ref=f4e187]: "Care: Hand wash"
+                - listitem [ref=f4e188]: Imported
+            - generic [ref=f4e189]:
+              - heading "Materials Care" [level=3] [ref=f4e190]
+              - generic [ref=f4e191]:
+                - generic [ref=f4e192]: 
+                - generic [ref=f4e194]: Machine wash max. 30ºC. Short spin.
+              - generic [ref=f4e195]:
+                - generic [ref=f4e196]: 
+                - generic [ref=f4e198]: Iron maximum 110ºC.
+              - generic [ref=f4e199]:
+                - generic [ref=f4e200]: 
+                - generic [ref=f4e202]: Do not bleach/bleach.
+              - generic [ref=f4e203]:
+                - generic [ref=f4e204]: 
+                - generic [ref=f4e206]: Do not dry clean.
+              - generic [ref=f4e207]:
+                - generic [ref=f4e208]: 
+                - generic [ref=f4e210]: Tumble dry, medium hear.
+      - generic [ref=f4e212]:
+        - generic [ref=f4e213]: People Also Bought
+        - generic [ref=f4e217]:
+          - generic [ref=f4e219]:
+            - link [ref=f4e221] [cursor=pointer]:
+              - /url: /us/products/linen-button-down-shirt
+              - img "Linen Button-Down Shirt" [ref=f4e222]
+              - img "Linen Button-Down Shirt" [ref=f4e223]
+            - generic [ref=f4e225]:
+              - link "Linen Button-Down Shirt" [ref=f4e226] [cursor=pointer]:
+                - /url: /us/products/linen-button-down-shirt
+              - generic [ref=f4e227]: $34.00
+          - generic [ref=f4e229]:
+            - link [ref=f4e231] [cursor=pointer]:
+              - /url: /us/products/linen-crop-top
+              - img "Linen Crop Top" [ref=f4e232]
+              - img "Linen Crop Top" [ref=f4e233]
+            - generic [ref=f4e235]:
+              - link "Linen Crop Top" [ref=f4e236] [cursor=pointer]:
+                - /url: /us/products/linen-crop-top
+              - generic [ref=f4e237]: $19.00
+          - generic [ref=f4e239]:
+            - link [ref=f4e241] [cursor=pointer]:
+              - /url: /us/products/cotton-linen-blend-tunic
+              - img "Cotton-Linen Blend Tunic" [ref=f4e242]
+              - img "Cotton-Linen Blend Tunic" [ref=f4e243]
+            - generic [ref=f4e245]:
+              - link "Cotton-Linen Blend Tunic" [ref=f4e246] [cursor=pointer]:
+                - /url: /us/products/cotton-linen-blend-tunic
+              - generic [ref=f4e247]: $34.00
+          - generic [ref=f4e249]:
+            - link [ref=f4e251] [cursor=pointer]:
+              - /url: /us/products/linen-wrap-dress
+              - img "Linen Wrap Dress" [ref=f4e252]
+              - img "Linen Wrap Dress" [ref=f4e253]
+            - generic [ref=f4e255]:
+              - link "Linen Wrap Dress" [ref=f4e256] [cursor=pointer]:
+                - /url: /us/products/linen-wrap-dress
+              - generic [ref=f4e257]: $45.00
+          - generic [ref=f4e259]:
+            - link [ref=f4e261] [cursor=pointer]:
+              - /url: /us/products/formal-wedding-linen-dress
+              - img "Formal Wedding Linen Dress" [ref=f4e262]
+              - img "Formal Wedding Linen Dress" [ref=f4e263]
+            - generic [ref=f4e265]:
+              - link "Formal Wedding Linen Dress" [ref=f4e266] [cursor=pointer]:
+                - /url: /us/products/formal-wedding-linen-dress
+              - generic [ref=f4e267]: $82.00
+          - generic [ref=f4e269]:
+            - link [ref=f4e271] [cursor=pointer]:
+              - /url: /us/products/linen-shirt-dress
+              - img "Linen Shirt Dress" [ref=f4e272]
+              - img "Linen Shirt Dress" [ref=f4e273]
+            - generic [ref=f4e275]:
+              - link "Linen Shirt Dress" [ref=f4e276] [cursor=pointer]:
+                - /url: /us/products/linen-shirt-dress
+              - generic [ref=f4e277]: $41.00
+          - generic [ref=f4e279]:
+            - link [ref=f4e281] [cursor=pointer]:
+              - /url: /us/products/oversized-linen-blouse
+              - img "Oversized Linen Blouse" [ref=f4e282]
+              - img "Oversized Linen Blouse" [ref=f4e283]
+            - generic [ref=f4e285]:
+              - link "Oversized Linen Blouse" [ref=f4e286] [cursor=pointer]:
+                - /url: /us/products/oversized-linen-blouse
+              - generic [ref=f4e287]: $39.00
+          - generic [ref=f4e289]:
+            - link [ref=f4e291] [cursor=pointer]:
+              - /url: /us/products/boho-linen-sundress
+              - img "Boho Linen Sundress" [ref=f4e292]
+              - img "Boho Linen Sundress" [ref=f4e293]
+            - generic [ref=f4e295]:
+              - link "Boho Linen Sundress" [ref=f4e296] [cursor=pointer]:
+                - /url: /us/products/boho-linen-sundress
+              - generic [ref=f4e297]: $42.00
+      - generic [ref=f4e299]:
+        - generic [ref=f4e300]: Recently Viewed
+        - generic [ref=f4e306]:
+          - link [ref=f4e308] [cursor=pointer]:
+            - /url: /us/products/plus-size-linen-dress
+            - img "Plus-Size Linen Dress" [ref=f4e309]
+            - img "Plus-Size Linen Dress" [ref=f4e310]
+          - generic [ref=f4e312]:
+            - link "Plus-Size Linen Dress" [ref=f4e313] [cursor=pointer]:
+              - /url: /us/products/plus-size-linen-dress
+            - generic [ref=f4e314]: $40.00
+    - generic [ref=f4e316]:
+      - generic [ref=f4e319]:
+        - generic [ref=f4e321]:
+          - link [ref=f4e323] [cursor=pointer]:
+            - /url: /us
+            - img "logo" [ref=f4e324]
+          - list [ref=f4e325]:
+            - listitem [ref=f4e326]:
+              - paragraph [ref=f4e327]: "Address: B/406, Aagam Shopping World, Vesu, Surat, Gujarat. Pincode - 395007"
+            - listitem [ref=f4e328]:
+              - paragraph [ref=f4e329]:
+                - text: "Email:"
+                - link "admin@amayraa.com" [ref=f4e330] [cursor=pointer]:
+                  - /url: mailto:admin@amayraa.com
+            - listitem [ref=f4e331]:
+              - paragraph [ref=f4e332]:
+                - text: "Phone:"
+                - link "+1 (742) 778-8540" [ref=f4e333] [cursor=pointer]:
+                  - /url: tel:+17427788540
+          - link "Get direction " [ref=f4e334] [cursor=pointer]:
+            - /url: /us/contact
+            - text: Get direction
+            - generic [ref=f4e335]: 
+          - list [ref=f4e336]:
+            - listitem [ref=f4e337]:
+              - link "" [ref=f4e338] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f4e340]:
+              - link "" [ref=f4e341] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f4e343]:
+              - link "" [ref=f4e344] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f4e346]:
+              - link "" [ref=f4e347] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f4e349]:
+              - link "" [ref=f4e350] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f4e352]:
+          - heading "Help" [level=6] [ref=f4e354]
+          - list [ref=f4e355]:
+            - listitem [ref=f4e356]:
+              - link "Privacy Policy" [ref=f4e357] [cursor=pointer]:
+                - /url: /us/privacy-policy
+            - listitem [ref=f4e358]:
+              - link "Returns + Exchanges" [ref=f4e359] [cursor=pointer]:
+                - /url: /us/delivery-return
+            - listitem [ref=f4e360]:
+              - link "Shipping" [ref=f4e361] [cursor=pointer]:
+                - /url: /us/shipping-delivery
+            - listitem [ref=f4e362]:
+              - link "Terms & Conditions" [ref=f4e363] [cursor=pointer]:
+                - /url: /us/terms-conditions
+            - listitem [ref=f4e364]:
+              - link "FAQ’s" [ref=f4e365] [cursor=pointer]:
+                - /url: /us/faq
+            - listitem [ref=f4e366]:
+              - link "My Wishlist" [ref=f4e367] [cursor=pointer]:
+                - /url: /us/wishlist
+        - generic [ref=f4e368]:
+          - heading "About us" [level=6] [ref=f4e370]
+          - list [ref=f4e371]:
+            - listitem [ref=f4e372]:
+              - link "Our Story" [ref=f4e373] [cursor=pointer]:
+                - /url: /us/about-us
+            - listitem [ref=f4e374]:
+              - link "Visit Our Store" [ref=f4e375] [cursor=pointer]:
+                - /url: /us/store-locator
+            - listitem [ref=f4e376]:
+              - link "Contact Us" [ref=f4e377] [cursor=pointer]:
+                - /url: /us/contact
+            - listitem [ref=f4e378]:
+              - link "Account" [ref=f4e379] [cursor=pointer]:
+                - /url: /us/account
+        - generic [ref=f4e381]:
+          - heading "Sign Up for Email" [level=6] [ref=f4e383]
+          - generic [ref=f4e384]:
+            - generic [ref=f4e385]: Sign up to get first dibs on new arrivals, sales, exclusive content, events and more!
+            - generic [ref=f4e387]:
+              - group [ref=f4e388]:
+                - textbox "Enter your email...." [ref=f4e389]
+              - button "Subscribe " [ref=f4e391] [cursor=pointer]:
+                - text: Subscribe
+                - generic [ref=f4e392]: 
+            - generic [ref=f4e393]:
+              - combobox [ref=f4e395]:
+                - option "EUR € | France"
+                - option "EUR € | Germany"
+                - option "USD $ | United States" [selected]
+                - option "VND ₫ | Vietnam"
+              - combobox [ref=f4e397]:
+                - option "English" [selected]
+                - option "العربية"
+                - option "简体中文"
+                - option "اردو"
+      - generic [ref=f4e398]: © 2025 Amayraa Store. All Rights Reserved
+    - text: 
+  - text:  

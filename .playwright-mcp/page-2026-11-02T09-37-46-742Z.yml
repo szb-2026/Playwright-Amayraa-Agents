@@ -1,0 +1,404 @@
+- generic [active] [ref=f15e1]:
+  - main [ref=f15e2]:
+    - generic [ref=f15e5]:
+      - link [ref=f15e7] [cursor=pointer]:
+        - /url: /us
+        - img "Amayraa" [ref=f15e8]
+      - navigation [ref=f15e10]:
+        - list [ref=f15e11]:
+          - listitem [ref=f15e12]:
+            - link "Shirting " [ref=f15e13] [cursor=pointer]:
+              - /url: /us/categories/shirting
+              - text: Shirting
+              - generic [ref=f15e14]: 
+          - listitem [ref=f15e15]:
+            - link "Tops " [ref=f15e16] [cursor=pointer]:
+              - /url: /us/categories/tops
+              - text: Tops
+              - generic [ref=f15e17]: 
+          - listitem [ref=f15e18]:
+            - link "Lounge " [ref=f15e19] [cursor=pointer]:
+              - /url: /us/categories/lounge
+              - text: Lounge
+              - generic [ref=f15e20]: 
+          - listitem [ref=f15e21]:
+            - link "Dresses " [ref=f15e22] [cursor=pointer]:
+              - /url: /us/categories/dresses
+              - text: Dresses
+              - generic [ref=f15e23]: 
+          - listitem [ref=f15e24]:
+            - link "Occasion " [ref=f15e25] [cursor=pointer]:
+              - /url: /us/categories/occasion
+              - text: Occasion
+              - generic [ref=f15e26]: 
+          - listitem [ref=f15e27]:
+            - link "About" [ref=f15e28] [cursor=pointer]:
+              - /url: /us/about-us
+      - list [ref=f15e30]:
+        - listitem [ref=f15e31]:
+          - link "" [ref=f15e32] [cursor=pointer]:
+            - /url: "#canvasSearch"
+        - listitem [ref=f15e34]:
+          - link "" [ref=f15e35] [cursor=pointer]:
+            - /url: "#authModal"
+        - listitem [ref=f15e37]:
+          - link " 0" [ref=f15e38] [cursor=pointer]:
+            - /url: "#authModal"
+            - generic [ref=f15e39]: 
+            - generic [ref=f15e40]: "0"
+        - listitem [ref=f15e41]:
+          - link " 0" [ref=f15e42] [cursor=pointer]:
+            - /url: "#shoppingCart"
+            - generic [ref=f15e43]: 
+            - generic [ref=f15e44]: "0"
+    - generic [ref=f15e47]:
+      - img "fashion-slideshow" [ref=f15e51]
+      - img "fashion-slideshow" [ref=f15e57]
+      - img "fashion-slideshow" [ref=f15e63]
+    - generic [ref=f15e67]:
+      - generic [ref=f15e68]:
+        - generic [ref=f15e69]:
+          - generic [ref=f15e70] [cursor=pointer]: 
+          - generic [ref=f15e72] [cursor=pointer]: 
+        - generic [ref=f15e74]: SHOP BY CATEGORIES
+      - generic [ref=f15e75]:
+        - generic [ref=f15e78]:
+          - generic [ref=f15e81]:
+            - link [ref=f15e82] [cursor=pointer]:
+              - /url: /us/store?category=shirting
+              - img "Shirting" [ref=f15e83]
+            - link "Shirting " [ref=f15e85] [cursor=pointer]:
+              - /url: /us/store?category=shirting
+              - generic [ref=f15e86]: Shirting
+              - generic: 
+          - generic [ref=f15e89]:
+            - link [ref=f15e90] [cursor=pointer]:
+              - /url: /us/store?category=tops
+              - img "Tops" [ref=f15e91]
+            - link "Tops " [ref=f15e93] [cursor=pointer]:
+              - /url: /us/store?category=tops
+              - generic [ref=f15e94]: Tops
+              - generic: 
+          - generic [ref=f15e97]:
+            - link [ref=f15e98] [cursor=pointer]:
+              - /url: /us/store?category=lounge
+              - img "Lounge" [ref=f15e99]
+            - link "Lounge " [ref=f15e101] [cursor=pointer]:
+              - /url: /us/store?category=lounge
+              - generic [ref=f15e102]: Lounge
+              - generic: 
+          - generic [ref=f15e105]:
+            - link [ref=f15e106] [cursor=pointer]:
+              - /url: /us/store?category=dresses
+              - img "Dresses" [ref=f15e107]
+            - link "Dresses " [ref=f15e109] [cursor=pointer]:
+              - /url: /us/store?category=dresses
+              - generic [ref=f15e110]: Dresses
+              - generic: 
+          - generic [ref=f15e113]:
+            - link [ref=f15e114] [cursor=pointer]:
+              - /url: /us/store?category=occasion
+              - img "Occasion" [ref=f15e115]
+            - link "Occasion " [ref=f15e117] [cursor=pointer]:
+              - /url: /us/store?category=occasion
+              - generic [ref=f15e118]: Occasion
+              - generic: 
+        - generic [ref=f15e120]:
+          - heading "Discover all new items" [level=5] [ref=f15e121]
+          - link "" [ref=f15e122] [cursor=pointer]:
+            - /url: /us/store
+    - generic [ref=f15e125]:
+      - generic [ref=f15e126]:
+        - generic [ref=f15e127]: Best Seller
+        - paragraph [ref=f15e128]: "Shop the Latest Styles: Stay ahead of the curve with our newest arrivals"
+      - generic [ref=f15e129]:
+        - generic [ref=f15e130]:
+          - link [ref=f15e132] [cursor=pointer]:
+            - /url: /us/products/linen-button-down-shirt
+            - img "Linen Button-Down Shirt" [ref=f15e133]
+            - img "Linen Button-Down Shirt" [ref=f15e134]
+          - generic [ref=f15e136]:
+            - link "Linen Button-Down Shirt" [ref=f15e137] [cursor=pointer]:
+              - /url: /us/products/linen-button-down-shirt
+            - generic [ref=f15e138]: $34.00
+        - generic [ref=f15e139]:
+          - link [ref=f15e141] [cursor=pointer]:
+            - /url: /us/products/linen-crop-top
+            - img "Linen Crop Top" [ref=f15e142]
+            - img "Linen Crop Top" [ref=f15e143]
+          - generic [ref=f15e145]:
+            - link "Linen Crop Top" [ref=f15e146] [cursor=pointer]:
+              - /url: /us/products/linen-crop-top
+            - generic [ref=f15e147]: $19.00
+        - generic [ref=f15e148]:
+          - link [ref=f15e150] [cursor=pointer]:
+            - /url: /us/products/cotton-linen-blend-tunic
+            - img "Cotton-Linen Blend Tunic" [ref=f15e151]
+            - img "Cotton-Linen Blend Tunic" [ref=f15e152]
+          - generic [ref=f15e154]:
+            - link "Cotton-Linen Blend Tunic" [ref=f15e155] [cursor=pointer]:
+              - /url: /us/products/cotton-linen-blend-tunic
+            - generic [ref=f15e156]: $34.00
+        - generic [ref=f15e157]:
+          - link [ref=f15e159] [cursor=pointer]:
+            - /url: /us/products/linen-wrap-dress
+            - img "Linen Wrap Dress" [ref=f15e160]
+            - img "Linen Wrap Dress" [ref=f15e161]
+          - generic [ref=f15e163]:
+            - link "Linen Wrap Dress" [ref=f15e164] [cursor=pointer]:
+              - /url: /us/products/linen-wrap-dress
+            - generic [ref=f15e165]: $45.00
+        - generic [ref=f15e166]:
+          - link [ref=f15e168] [cursor=pointer]:
+            - /url: /us/products/formal-wedding-linen-dress
+            - img "Formal Wedding Linen Dress" [ref=f15e169]
+            - img "Formal Wedding Linen Dress" [ref=f15e170]
+          - generic [ref=f15e172]:
+            - link "Formal Wedding Linen Dress" [ref=f15e173] [cursor=pointer]:
+              - /url: /us/products/formal-wedding-linen-dress
+            - generic [ref=f15e174]: $82.00
+        - generic [ref=f15e175]:
+          - link [ref=f15e177] [cursor=pointer]:
+            - /url: /us/products/linen-shirt-dress
+            - img "Linen Shirt Dress" [ref=f15e178]
+            - img "Linen Shirt Dress" [ref=f15e179]
+          - generic [ref=f15e181]:
+            - link "Linen Shirt Dress" [ref=f15e182] [cursor=pointer]:
+              - /url: /us/products/linen-shirt-dress
+            - generic [ref=f15e183]: $41.00
+        - generic [ref=f15e184]:
+          - link [ref=f15e186] [cursor=pointer]:
+            - /url: /us/products/oversized-linen-blouse
+            - img "Oversized Linen Blouse" [ref=f15e187]
+            - img "Oversized Linen Blouse" [ref=f15e188]
+          - generic [ref=f15e190]:
+            - link "Oversized Linen Blouse" [ref=f15e191] [cursor=pointer]:
+              - /url: /us/products/oversized-linen-blouse
+            - generic [ref=f15e192]: $39.00
+        - generic [ref=f15e193]:
+          - link [ref=f15e195] [cursor=pointer]:
+            - /url: /us/products/boho-linen-sundress
+            - img "Boho Linen Sundress" [ref=f15e196]
+            - img "Boho Linen Sundress" [ref=f15e197]
+          - generic [ref=f15e199]:
+            - link "Boho Linen Sundress" [ref=f15e200] [cursor=pointer]:
+              - /url: /us/products/boho-linen-sundress
+            - generic [ref=f15e201]: $42.00
+      - button "Load more" [ref=f15e203] [cursor=pointer]
+    - generic [ref=f15e204]:
+      - generic [ref=f15e206]:
+        - generic [ref=f15e207]: Shop the look
+        - paragraph [ref=f15e208]: Inspire and let yourself be inspired, from one unique fashion to another.
+      - generic [ref=f15e209]:
+        - generic [ref=f15e210]:
+          - img "Shop the look – look 1" [ref=f15e212]
+          - 'button "View product: Linen Button-Down Shirt" [ref=f15e215] [cursor=pointer]'
+        - generic [ref=f15e217]:
+          - img "Shop the look – look 2" [ref=f15e219]
+          - 'button "View product: Linen Halter Neck Dress" [ref=f15e222] [cursor=pointer]'
+    - generic [ref=f15e225]:
+      - generic [ref=f15e226]:
+        - generic [ref=f15e227]: Happy Clients
+        - paragraph [ref=f15e228]: Hear what they say about us
+      - generic [ref=f15e229]:
+        - generic [ref=f15e231]:
+          - generic [ref=f15e233]:
+            - generic [ref=f15e234]:
+              - generic [ref=f15e235]: 
+              - generic [ref=f15e236]: 
+              - generic [ref=f15e237]: 
+              - generic [ref=f15e238]: 
+              - generic [ref=f15e239]: 
+            - generic [ref=f15e240]: Best Online Fashion Site
+            - generic [ref=f15e241]: “ I always find something stylish and affordable on this web fashion site ”
+            - generic [ref=f15e242]:
+              - generic [ref=f15e243]: Robert smith
+              - generic [ref=f15e244]: Customer from USA
+          - generic [ref=f15e246]:
+            - generic [ref=f15e247]:
+              - generic [ref=f15e248]: 
+              - generic [ref=f15e249]: 
+              - generic [ref=f15e250]: 
+              - generic [ref=f15e251]: 
+              - generic [ref=f15e252]: 
+            - generic [ref=f15e253]: Great Selection and Quality
+            - generic [ref=f15e254]: "\"I love the variety of styles and the high-quality clothing on this web fashion site.\""
+            - generic [ref=f15e255]:
+              - generic [ref=f15e256]: Allen Lyn
+              - generic [ref=f15e257]: Customer from France
+          - generic [ref=f15e259]:
+            - generic [ref=f15e260]:
+              - generic [ref=f15e261]: 
+              - generic [ref=f15e262]: 
+              - generic [ref=f15e263]: 
+              - generic [ref=f15e264]: 
+              - generic [ref=f15e265]: 
+            - generic [ref=f15e266]: Best Customer Service
+            - generic [ref=f15e267]: "\"I finally found a web fashion site with stylish and flattering options in my size.\""
+            - generic [ref=f15e268]:
+              - generic [ref=f15e269]: Peter Rope
+              - generic [ref=f15e270]: Customer from USA
+          - generic [ref=f15e272]:
+            - generic [ref=f15e273]:
+              - generic [ref=f15e274]: 
+              - generic [ref=f15e275]: 
+              - generic [ref=f15e276]: 
+              - generic [ref=f15e277]: 
+              - generic [ref=f15e278]: 
+            - generic [ref=f15e279]: Great Selection and Quality
+            - generic [ref=f15e280]: "\"I love the variety of styles and the high-quality clothing on this web fashion site.\""
+            - generic [ref=f15e281]:
+              - generic [ref=f15e282]: Hellen Ase
+              - generic [ref=f15e283]: Customer from Japan
+        - generic [ref=f15e284] [cursor=pointer]: 
+        - generic [ref=f15e286] [cursor=pointer]: 
+    - generic [ref=f15e289]:
+      - generic [ref=f15e291]:
+        - link [ref=f15e294] [cursor=pointer]:
+          - /url: /us/store?brand=Sundried%20Linen
+          - img "Sundried Linen" [ref=f15e295]
+        - link [ref=f15e298] [cursor=pointer]:
+          - /url: /us/store?brand=Anavila
+          - img "Anavila" [ref=f15e299]
+        - link [ref=f15e302] [cursor=pointer]:
+          - /url: /us/store?brand=Kaveri
+          - img "Kaveri" [ref=f15e303]
+        - link [ref=f15e306] [cursor=pointer]:
+          - /url: /us/store?brand=Bharatsthali
+          - img "Bharatsthali" [ref=f15e307]
+        - link [ref=f15e310] [cursor=pointer]:
+          - /url: /us/store?brand=Linen%20%26%20Co.
+          - img "Linen & Co." [ref=f15e311]
+      - link "View All Brands " [ref=f15e313] [cursor=pointer]:
+        - /url: /us/brands
+        - generic [ref=f15e314]: View All Brands
+        - generic [ref=f15e315]: 
+    - generic [ref=f15e317]:
+      - generic [ref=f15e318]:
+        - paragraph
+      - generic [ref=f15e321]:
+        - img "Linen Crop Top" [ref=f15e324]
+        - img "Formal Wedding Linen Dress" [ref=f15e327]
+        - img "Linen Shirt Dress" [ref=f15e330]
+        - img "Sleveless Linen Top" [ref=f15e333]
+        - img "Linen Work Blazer" [ref=f15e336]
+    - generic [ref=f15e341]:
+      - generic [ref=f15e343]:
+        - generic [ref=f15e344]: 
+        - generic [ref=f15e346]:
+          - generic [ref=f15e347]: Free Shipping
+          - paragraph [ref=f15e348]: Free shipping over order $120
+      - generic [ref=f15e350]:
+        - generic [ref=f15e351]: 
+        - generic [ref=f15e353]:
+          - generic [ref=f15e354]: Flexible Payment
+          - paragraph [ref=f15e355]: Pay with Multiple Credit Cards
+      - generic [ref=f15e357]:
+        - generic [ref=f15e358]: 
+        - generic [ref=f15e360]:
+          - generic [ref=f15e361]: 14 Day Returns
+          - paragraph [ref=f15e362]: Within 30 days for an exchange
+      - generic [ref=f15e364]:
+        - generic [ref=f15e365]: 
+        - generic [ref=f15e367]:
+          - generic [ref=f15e368]: Premium Support
+          - paragraph [ref=f15e369]: Outstanding premium support
+    - generic [ref=f15e371]:
+      - generic [ref=f15e374]:
+        - generic [ref=f15e376]:
+          - link [ref=f15e378] [cursor=pointer]:
+            - /url: /us
+            - img "logo" [ref=f15e379]
+          - list [ref=f15e380]:
+            - listitem [ref=f15e381]:
+              - paragraph [ref=f15e382]: "Address: B/406, Aagam Shopping World, Vesu, Surat, Gujarat. Pincode - 395007"
+            - listitem [ref=f15e383]:
+              - paragraph [ref=f15e384]:
+                - text: "Email:"
+                - link "admin@amayraa.com" [ref=f15e385] [cursor=pointer]:
+                  - /url: mailto:admin@amayraa.com
+            - listitem [ref=f15e386]:
+              - paragraph [ref=f15e387]:
+                - text: "Phone:"
+                - link "+1 (742) 778-8540" [ref=f15e388] [cursor=pointer]:
+                  - /url: tel:+17427788540
+          - link "Get direction " [ref=f15e389] [cursor=pointer]:
+            - /url: /us/contact
+            - text: Get direction
+            - generic [ref=f15e390]: 
+          - list [ref=f15e391]:
+            - listitem [ref=f15e392]:
+              - link "" [ref=f15e393] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f15e395]:
+              - link "" [ref=f15e396] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f15e398]:
+              - link "" [ref=f15e399] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f15e401]:
+              - link "" [ref=f15e402] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f15e404]:
+              - link "" [ref=f15e405] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f15e407]:
+          - heading "Help" [level=6] [ref=f15e409]
+          - list [ref=f15e410]:
+            - listitem [ref=f15e411]:
+              - link "Privacy Policy" [ref=f15e412] [cursor=pointer]:
+                - /url: /us/privacy-policy
+            - listitem [ref=f15e413]:
+              - link "Returns + Exchanges" [ref=f15e414] [cursor=pointer]:
+                - /url: /us/delivery-return
+            - listitem [ref=f15e415]:
+              - link "Shipping" [ref=f15e416] [cursor=pointer]:
+                - /url: /us/shipping-delivery
+            - listitem [ref=f15e417]:
+              - link "Terms & Conditions" [ref=f15e418] [cursor=pointer]:
+                - /url: /us/terms-conditions
+            - listitem [ref=f15e419]:
+              - link "FAQ’s" [ref=f15e420] [cursor=pointer]:
+                - /url: /us/faq
+            - listitem [ref=f15e421]:
+              - link "My Wishlist" [ref=f15e422] [cursor=pointer]:
+                - /url: /us/wishlist
+        - generic [ref=f15e423]:
+          - heading "About us" [level=6] [ref=f15e425]
+          - list [ref=f15e426]:
+            - listitem [ref=f15e427]:
+              - link "Our Story" [ref=f15e428] [cursor=pointer]:
+                - /url: /us/about-us
+            - listitem [ref=f15e429]:
+              - link "Visit Our Store" [ref=f15e430] [cursor=pointer]:
+                - /url: /us/store-locator
+            - listitem [ref=f15e431]:
+              - link "Contact Us" [ref=f15e432] [cursor=pointer]:
+                - /url: /us/contact
+            - listitem [ref=f15e433]:
+              - link "Account" [ref=f15e434] [cursor=pointer]:
+                - /url: /us/account
+        - generic [ref=f15e436]:
+          - heading "Sign Up for Email" [level=6] [ref=f15e438]
+          - generic [ref=f15e439]:
+            - generic [ref=f15e440]: Sign up to get first dibs on new arrivals, sales, exclusive content, events and more!
+            - generic [ref=f15e442]:
+              - group [ref=f15e443]:
+                - textbox "Enter your email...." [ref=f15e444]
+              - button "Subscribe " [ref=f15e446] [cursor=pointer]:
+                - text: Subscribe
+                - generic [ref=f15e447]: 
+            - generic [ref=f15e448]:
+              - combobox [ref=f15e450]:
+                - option "EUR € | France"
+                - option "EUR € | Germany"
+                - option "USD $ | United States" [selected]
+                - option "VND ₫ | Vietnam"
+              - combobox [ref=f15e452]:
+                - option "English" [selected]
+                - option "العربية"
+                - option "简体中文"
+                - option "اردو"
+      - generic [ref=f15e453]: © 2025 Amayraa Store. All Rights Reserved
+    - text: 
+  - text:  

@@ -1,0 +1,301 @@
+- generic [active] [ref=f3e1]:
+  - main [ref=f3e2]:
+    - generic [ref=f3e5]:
+      - link [ref=f3e7] [cursor=pointer]:
+        - /url: /us
+        - img "Amayraa" [ref=f3e8]
+      - navigation [ref=f3e10]:
+        - list [ref=f3e11]:
+          - listitem [ref=f3e12]:
+            - link "Shirting " [ref=f3e13] [cursor=pointer]:
+              - /url: /us/categories/shirting
+              - text: Shirting
+              - generic [ref=f3e14]: 
+          - listitem [ref=f3e15]:
+            - link "Tops " [ref=f3e16] [cursor=pointer]:
+              - /url: /us/categories/tops
+              - text: Tops
+              - generic [ref=f3e17]: 
+          - listitem [ref=f3e18]:
+            - link "Lounge " [ref=f3e19] [cursor=pointer]:
+              - /url: /us/categories/lounge
+              - text: Lounge
+              - generic [ref=f3e20]: 
+          - listitem [ref=f3e21]:
+            - link "Dresses " [ref=f3e22] [cursor=pointer]:
+              - /url: /us/categories/dresses
+              - text: Dresses
+              - generic [ref=f3e23]: 
+          - listitem [ref=f3e24]:
+            - link "Occasion " [ref=f3e25] [cursor=pointer]:
+              - /url: /us/categories/occasion
+              - text: Occasion
+              - generic [ref=f3e26]: 
+          - listitem [ref=f3e27]:
+            - link "About" [ref=f3e28] [cursor=pointer]:
+              - /url: /us/about-us
+      - list [ref=f3e30]:
+        - listitem [ref=f3e31]:
+          - link "" [ref=f3e32] [cursor=pointer]:
+            - /url: "#canvasSearch"
+        - listitem [ref=f3e34]:
+          - link "" [ref=f3e35] [cursor=pointer]:
+            - /url: "#authModal"
+        - listitem [ref=f3e37]:
+          - link " 0" [ref=f3e38] [cursor=pointer]:
+            - /url: "#authModal"
+            - generic [ref=f3e39]: 
+            - generic [ref=f3e40]: "0"
+        - listitem [ref=f3e41]:
+          - link " 0" [ref=f3e42] [cursor=pointer]:
+            - /url: "#shoppingCart"
+            - generic [ref=f3e43]: 
+            - generic [ref=f3e44]: "0"
+    - generic [ref=f3e46]:
+      - generic [ref=f3e47]: New Arrivals
+      - paragraph [ref=f3e48]: Shop through our latest selection of Fashion
+    - generic [ref=f3e50]:
+      - generic [ref=f3e51]:
+        - link " Filter" [ref=f3e53] [cursor=pointer]:
+          - /url: "#filterShop"
+          - generic [ref=f3e54]: 
+          - generic [ref=f3e55]: Filter
+        - list [ref=f3e56]:
+          - listitem [ref=f3e57] [cursor=pointer]:
+            - generic [ref=f3e58]: 
+          - listitem [ref=f3e60] [cursor=pointer]:
+            - generic [ref=f3e61]: 
+          - listitem [ref=f3e63] [cursor=pointer]:
+            - generic [ref=f3e64]: 
+          - listitem [ref=f3e66] [cursor=pointer]:
+            - generic [ref=f3e67]: 
+          - text:  
+        - generic [ref=f3e71] [cursor=pointer]:
+          - generic [ref=f3e72]: Featured
+          - generic [ref=f3e73]: 
+      - generic [ref=f3e74]:
+        - generic [ref=f3e75]:
+          - link [ref=f3e77] [cursor=pointer]:
+            - /url: /us/products/kanavu-dress
+            - img "Kanavu dress" [ref=f3e78]
+            - img "Kanavu dress" [ref=f3e79]
+          - generic [ref=f3e81]:
+            - link "Kanavu dress" [ref=f3e82] [cursor=pointer]:
+              - /url: /us/products/kanavu-dress
+            - generic [ref=f3e83]: $93.00
+        - generic [ref=f3e84]:
+          - link [ref=f3e86] [cursor=pointer]:
+            - /url: /us/products/smoke-blue-kaftan
+            - img "Smoke Blue Kaftan" [ref=f3e87]
+            - img "Smoke Blue Kaftan" [ref=f3e88]
+          - generic [ref=f3e90]:
+            - link "Smoke Blue Kaftan" [ref=f3e91] [cursor=pointer]:
+              - /url: /us/products/smoke-blue-kaftan
+            - generic [ref=f3e92]: $124.00
+        - generic [ref=f3e93]:
+          - link [ref=f3e95] [cursor=pointer]:
+            - /url: /us/products/solana-teal-jacket
+            - img "Solana teal Jacket" [ref=f3e96]
+            - img "Solana teal Jacket" [ref=f3e97]
+          - generic [ref=f3e99]:
+            - link "Solana teal Jacket" [ref=f3e100] [cursor=pointer]:
+              - /url: /us/products/solana-teal-jacket
+            - generic [ref=f3e101]: $183.20
+        - generic [ref=f3e102]:
+          - link [ref=f3e104] [cursor=pointer]:
+            - /url: /us/products/lightblue-and-red-pure-linen-saree
+            - img "Lightblue And Red Pure Linen Saree" [ref=f3e105]
+            - img "Lightblue And Red Pure Linen Saree" [ref=f3e106]
+          - generic [ref=f3e108]:
+            - link "Lightblue And Red Pure Linen Saree" [ref=f3e109] [cursor=pointer]:
+              - /url: /us/products/lightblue-and-red-pure-linen-saree
+            - generic [ref=f3e110]: $39.20
+        - generic [ref=f3e111]:
+          - link [ref=f3e113] [cursor=pointer]:
+            - /url: /us/products/sky-blue-color-pure-linen-solid-handloom-saree
+            - img "Sky Blue Color Pure Linen Solid Handloom Saree" [ref=f3e114]
+            - img "Sky Blue Color Pure Linen Solid Handloom Saree" [ref=f3e115]
+          - generic [ref=f3e117]:
+            - link "Sky Blue Color Pure Linen Solid Handloom Saree" [ref=f3e118] [cursor=pointer]:
+              - /url: /us/products/sky-blue-color-pure-linen-solid-handloom-saree
+            - generic [ref=f3e119]: $48.00
+        - generic [ref=f3e120]:
+          - link [ref=f3e122] [cursor=pointer]:
+            - /url: /us/products/white-and-red-pure-linen-saree
+            - img "White And Red Pure Linen Saree" [ref=f3e123]
+            - img "White And Red Pure Linen Saree" [ref=f3e124]
+          - generic [ref=f3e126]:
+            - link "White And Red Pure Linen Saree" [ref=f3e127] [cursor=pointer]:
+              - /url: /us/products/white-and-red-pure-linen-saree
+            - generic [ref=f3e128]: $49.20
+        - generic [ref=f3e129]:
+          - link [ref=f3e131] [cursor=pointer]:
+            - /url: /us/products/tropical-oasis-cinch-top
+            - img "Tropical Oasis Cinch Top" [ref=f3e132]
+            - img "Tropical Oasis Cinch Top" [ref=f3e133]
+          - generic [ref=f3e135]:
+            - link "Tropical Oasis Cinch Top" [ref=f3e136] [cursor=pointer]:
+              - /url: /us/products/tropical-oasis-cinch-top
+            - generic [ref=f3e137]: $82.00
+        - generic [ref=f3e138]:
+          - link [ref=f3e140] [cursor=pointer]:
+            - /url: /us/products/painted-petals-wrap-dress
+            - img "Painted Petals Wrap Dress" [ref=f3e141]
+            - img "Painted Petals Wrap Dress" [ref=f3e142]
+          - generic [ref=f3e144]:
+            - link "Painted Petals Wrap Dress" [ref=f3e145] [cursor=pointer]:
+              - /url: /us/products/painted-petals-wrap-dress
+            - generic [ref=f3e146]: $140.00
+        - generic [ref=f3e147]:
+          - link [ref=f3e149] [cursor=pointer]:
+            - /url: /us/products/whimsical-garden-kismat-dress
+            - img "Whimsical Garden Kismat Dress" [ref=f3e150]
+            - img "Whimsical Garden Kismat Dress" [ref=f3e151]
+          - generic [ref=f3e153]:
+            - link "Whimsical Garden Kismat Dress" [ref=f3e154] [cursor=pointer]:
+              - /url: /us/products/whimsical-garden-kismat-dress
+            - generic [ref=f3e155]: $132.40
+        - generic [ref=f3e156]:
+          - link [ref=f3e158] [cursor=pointer]:
+            - /url: /us/products/long-sleeve-linen-dress
+            - img "Long-Sleeve Linen Dress" [ref=f3e159]
+            - img "Long-Sleeve Linen Dress" [ref=f3e160]
+          - generic [ref=f3e162]:
+            - link "Long-Sleeve Linen Dress" [ref=f3e163] [cursor=pointer]:
+              - /url: /us/products/long-sleeve-linen-dress
+            - generic [ref=f3e164]: $47.00
+        - generic [ref=f3e165]:
+          - link [ref=f3e167] [cursor=pointer]:
+            - /url: /us/products/sleveless-linen-dress
+            - img "Sleveless Linen Dress" [ref=f3e168]
+            - img "Sleveless Linen Dress" [ref=f3e169]
+          - generic [ref=f3e171]:
+            - link "Sleveless Linen Dress" [ref=f3e172] [cursor=pointer]:
+              - /url: /us/products/sleveless-linen-dress
+            - generic [ref=f3e173]: $38.00
+        - generic [ref=f3e174]:
+          - link [ref=f3e176] [cursor=pointer]:
+            - /url: /us/products/plus-size-linen-dress
+            - img "Plus-Size Linen Dress" [ref=f3e177]
+            - img "Plus-Size Linen Dress" [ref=f3e178]
+          - generic [ref=f3e180]:
+            - link "Plus-Size Linen Dress" [ref=f3e181] [cursor=pointer]:
+              - /url: /us/products/plus-size-linen-dress
+            - generic [ref=f3e182]: $40.00
+      - list [ref=f3e183]:
+        - listitem [ref=f3e184]:
+          - link "1" [ref=f3e185] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=f3e186]:
+          - link "2" [ref=f3e187] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=f3e188]:
+          - link "3" [ref=f3e189] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=f3e190]:
+          - link "" [ref=f3e191] [cursor=pointer]:
+            - /url: "#"
+    - generic [ref=f3e194]:
+      - generic [ref=f3e197]:
+        - generic [ref=f3e199]:
+          - link [ref=f3e201] [cursor=pointer]:
+            - /url: /us
+            - img "logo" [ref=f3e202]
+          - list [ref=f3e203]:
+            - listitem [ref=f3e204]:
+              - paragraph [ref=f3e205]: "Address: B/406, Aagam Shopping World, Vesu, Surat, Gujarat. Pincode - 395007"
+            - listitem [ref=f3e206]:
+              - paragraph [ref=f3e207]:
+                - text: "Email:"
+                - link "admin@amayraa.com" [ref=f3e208] [cursor=pointer]:
+                  - /url: mailto:admin@amayraa.com
+            - listitem [ref=f3e209]:
+              - paragraph [ref=f3e210]:
+                - text: "Phone:"
+                - link "+1 (742) 778-8540" [ref=f3e211] [cursor=pointer]:
+                  - /url: tel:+17427788540
+          - link "Get direction " [ref=f3e212] [cursor=pointer]:
+            - /url: /us/contact
+            - text: Get direction
+            - generic [ref=f3e213]: 
+          - list [ref=f3e214]:
+            - listitem [ref=f3e215]:
+              - link "" [ref=f3e216] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f3e218]:
+              - link "" [ref=f3e219] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f3e221]:
+              - link "" [ref=f3e222] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f3e224]:
+              - link "" [ref=f3e225] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f3e227]:
+              - link "" [ref=f3e228] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f3e230]:
+          - heading "Help" [level=6] [ref=f3e232]
+          - list [ref=f3e233]:
+            - listitem [ref=f3e234]:
+              - link "Privacy Policy" [ref=f3e235] [cursor=pointer]:
+                - /url: /us/privacy-policy
+            - listitem [ref=f3e236]:
+              - link "Returns + Exchanges" [ref=f3e237] [cursor=pointer]:
+                - /url: /us/delivery-return
+            - listitem [ref=f3e238]:
+              - link "Shipping" [ref=f3e239] [cursor=pointer]:
+                - /url: /us/shipping-delivery
+            - listitem [ref=f3e240]:
+              - link "Terms & Conditions" [ref=f3e241] [cursor=pointer]:
+                - /url: /us/terms-conditions
+            - listitem [ref=f3e242]:
+              - link "FAQ’s" [ref=f3e243] [cursor=pointer]:
+                - /url: /us/faq
+            - listitem [ref=f3e244]:
+              - link "My Wishlist" [ref=f3e245] [cursor=pointer]:
+                - /url: /us/wishlist
+        - generic [ref=f3e246]:
+          - heading "About us" [level=6] [ref=f3e248]
+          - list [ref=f3e249]:
+            - listitem [ref=f3e250]:
+              - link "Our Story" [ref=f3e251] [cursor=pointer]:
+                - /url: /us/about-us
+            - listitem [ref=f3e252]:
+              - link "Visit Our Store" [ref=f3e253] [cursor=pointer]:
+                - /url: /us/store-locator
+            - listitem [ref=f3e254]:
+              - link "Contact Us" [ref=f3e255] [cursor=pointer]:
+                - /url: /us/contact
+            - listitem [ref=f3e256]:
+              - link "Account" [ref=f3e257] [cursor=pointer]:
+                - /url: /us/account
+        - generic [ref=f3e259]:
+          - heading "Sign Up for Email" [level=6] [ref=f3e261]
+          - generic [ref=f3e262]:
+            - generic [ref=f3e263]: Sign up to get first dibs on new arrivals, sales, exclusive content, events and more!
+            - generic [ref=f3e265]:
+              - group [ref=f3e266]:
+                - textbox "Enter your email...." [ref=f3e267]
+              - button "Subscribe " [ref=f3e269] [cursor=pointer]:
+                - text: Subscribe
+                - generic [ref=f3e270]: 
+            - generic [ref=f3e271]:
+              - generic [ref=f3e273]:
+                - combobox [ref=f3e274]:
+                  - option "EUR € | France"
+                  - option "EUR € | Germany"
+                  - option "USD $ | United States" [selected]
+                  - option "VND ₫ | Vietnam"
+                - combobox "USD $ | United States" [ref=f3e275] [cursor=pointer]: 
+              - generic [ref=f3e281]:
+                - combobox [ref=f3e282]:
+                  - option "English" [selected]
+                  - option "العربية"
+                  - option "简体中文"
+                  - option "اردو"
+                - combobox "English" [ref=f3e283] [cursor=pointer]: 
+      - generic [ref=f3e287]: © 2025 Amayraa Store. All Rights Reserved
+    - text: 
+  - text:  
+  - alert [ref=f3e294]

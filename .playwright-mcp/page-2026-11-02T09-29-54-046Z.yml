@@ -1,0 +1,190 @@
+- generic [active] [ref=f5e1]:
+  - main [ref=f5e2]:
+    - generic [ref=f5e5]:
+      - link [ref=f5e7] [cursor=pointer]:
+        - /url: /us
+        - img "Amayraa" [ref=f5e8]
+      - navigation [ref=f5e10]:
+        - list [ref=f5e11]:
+          - listitem [ref=f5e12]:
+            - link "Shirting " [ref=f5e13] [cursor=pointer]:
+              - /url: /us/categories/shirting
+              - text: Shirting
+              - generic [ref=f5e14]: 
+          - listitem [ref=f5e15]:
+            - link "Tops " [ref=f5e16] [cursor=pointer]:
+              - /url: /us/categories/tops
+              - text: Tops
+              - generic [ref=f5e17]: 
+          - listitem [ref=f5e18]:
+            - link "Lounge " [ref=f5e19] [cursor=pointer]:
+              - /url: /us/categories/lounge
+              - text: Lounge
+              - generic [ref=f5e20]: 
+          - listitem [ref=f5e21]:
+            - link "Dresses " [ref=f5e22] [cursor=pointer]:
+              - /url: /us/categories/dresses
+              - text: Dresses
+              - generic [ref=f5e23]: 
+          - listitem [ref=f5e24]:
+            - link "Occasion " [ref=f5e25] [cursor=pointer]:
+              - /url: /us/categories/occasion
+              - text: Occasion
+              - generic [ref=f5e26]: 
+          - listitem [ref=f5e27]:
+            - link "About" [ref=f5e28] [cursor=pointer]:
+              - /url: /us/about-us
+      - list [ref=f5e30]:
+        - listitem [ref=f5e31]:
+          - link "" [ref=f5e32] [cursor=pointer]:
+            - /url: "#canvasSearch"
+        - listitem [ref=f5e34]:
+          - link "" [ref=f5e35] [cursor=pointer]:
+            - /url: "#authModal"
+        - listitem [ref=f5e37]:
+          - link " 0" [ref=f5e38] [cursor=pointer]:
+            - /url: "#authModal"
+            - generic [ref=f5e39]: 
+            - generic [ref=f5e40]: "0"
+        - listitem [ref=f5e41]:
+          - link " 0" [ref=f5e42] [cursor=pointer]:
+            - /url: "#shoppingCart"
+            - generic [ref=f5e43]: 
+            - generic [ref=f5e44]: "0"
+    - generic [ref=f5e45]:
+      - generic [ref=f5e46]: Log in
+      - generic [ref=f5e51]:
+        - generic [ref=f5e52]:
+          - generic [ref=f5e54]:
+            - button "Customer" [ref=f5e56] [cursor=pointer]
+            - button "Company" [ref=f5e61] [cursor=pointer]
+            - button "Employee" [ref=f5e66] [cursor=pointer]
+          - generic [ref=f5e71]:
+            - heading "Log in" [level=5] [ref=f5e72]
+            - generic [ref=f5e74]:
+              - generic [ref=f5e75]:
+                - textbox "Email *" [ref=f5e76]:
+                  - /placeholder: ""
+                - generic [ref=f5e77]: Email *
+              - generic [ref=f5e78]:
+                - textbox "Password *" [ref=f5e79]:
+                  - /placeholder: " "
+                - generic [ref=f5e80]: Password *
+                - button [ref=f5e81] [cursor=pointer]
+              - link "Forgot your password?" [ref=f5e86] [cursor=pointer]:
+                - /url: "#recover"
+              - button "Log in" [ref=f5e88] [cursor=pointer]
+              - generic [ref=f5e89]: or
+              - button "Continue with Google" [ref=f5e92] [cursor=pointer]
+              - button "Log in with Phone" [ref=f5e100] [cursor=pointer]
+        - generic [ref=f5e104]:
+          - heading "I'm new here" [level=5] [ref=f5e105]
+          - paragraph [ref=f5e106]: Sign up for early Sale access plus tailored new arrivals, trends and promotions. To opt out, click unsubscribe in our emails.
+          - button "Register " [ref=f5e107] [cursor=pointer]:
+            - text: Register
+            - generic [ref=f5e108]: 
+    - region "Notifications alt+T"
+    - generic [ref=f5e110]:
+      - generic [ref=f5e113]:
+        - generic [ref=f5e115]:
+          - link [ref=f5e117] [cursor=pointer]:
+            - /url: /us
+            - img "logo" [ref=f5e118]
+          - list [ref=f5e119]:
+            - listitem [ref=f5e120]:
+              - paragraph [ref=f5e121]: "Address: B/406, Aagam Shopping World, Vesu, Surat, Gujarat. Pincode - 395007"
+            - listitem [ref=f5e122]:
+              - paragraph [ref=f5e123]:
+                - text: "Email:"
+                - link "admin@amayraa.com" [ref=f5e124] [cursor=pointer]:
+                  - /url: mailto:admin@amayraa.com
+            - listitem [ref=f5e125]:
+              - paragraph [ref=f5e126]:
+                - text: "Phone:"
+                - link "+1 (742) 778-8540" [ref=f5e127] [cursor=pointer]:
+                  - /url: tel:+17427788540
+          - link "Get direction " [ref=f5e128] [cursor=pointer]:
+            - /url: /us/contact
+            - text: Get direction
+            - generic [ref=f5e129]: 
+          - list [ref=f5e130]:
+            - listitem [ref=f5e131]:
+              - link "" [ref=f5e132] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f5e134]:
+              - link "" [ref=f5e135] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f5e137]:
+              - link "" [ref=f5e138] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f5e140]:
+              - link "" [ref=f5e141] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f5e143]:
+              - link "" [ref=f5e144] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=f5e146]:
+          - heading "Help" [level=6] [ref=f5e148]
+          - list [ref=f5e149]:
+            - listitem [ref=f5e150]:
+              - link "Privacy Policy" [ref=f5e151] [cursor=pointer]:
+                - /url: /us/privacy-policy
+            - listitem [ref=f5e152]:
+              - link "Returns + Exchanges" [ref=f5e153] [cursor=pointer]:
+                - /url: /us/delivery-return
+            - listitem [ref=f5e154]:
+              - link "Shipping" [ref=f5e155] [cursor=pointer]:
+                - /url: /us/shipping-delivery
+            - listitem [ref=f5e156]:
+              - link "Terms & Conditions" [ref=f5e157] [cursor=pointer]:
+                - /url: /us/terms-conditions
+            - listitem [ref=f5e158]:
+              - link "FAQ’s" [ref=f5e159] [cursor=pointer]:
+                - /url: /us/faq
+            - listitem [ref=f5e160]:
+              - link "My Wishlist" [ref=f5e161] [cursor=pointer]:
+                - /url: /us/wishlist
+        - generic [ref=f5e162]:
+          - heading "About us" [level=6] [ref=f5e164]
+          - list [ref=f5e165]:
+            - listitem [ref=f5e166]:
+              - link "Our Story" [ref=f5e167] [cursor=pointer]:
+                - /url: /us/about-us
+            - listitem [ref=f5e168]:
+              - link "Visit Our Store" [ref=f5e169] [cursor=pointer]:
+                - /url: /us/store-locator
+            - listitem [ref=f5e170]:
+              - link "Contact Us" [ref=f5e171] [cursor=pointer]:
+                - /url: /us/contact
+            - listitem [ref=f5e172]:
+              - link "Account" [ref=f5e173] [cursor=pointer]:
+                - /url: /us/account
+        - generic [ref=f5e175]:
+          - heading "Sign Up for Email" [level=6] [ref=f5e177]
+          - generic [ref=f5e178]:
+            - generic [ref=f5e179]: Sign up to get first dibs on new arrivals, sales, exclusive content, events and more!
+            - generic [ref=f5e181]:
+              - group [ref=f5e182]:
+                - textbox "Enter your email...." [ref=f5e183]
+              - button "Subscribe " [ref=f5e185] [cursor=pointer]:
+                - text: Subscribe
+                - generic [ref=f5e186]: 
+            - generic [ref=f5e187]:
+              - generic [ref=f5e189]:
+                - combobox [ref=f5e190]:
+                  - option "EUR € | France"
+                  - option "EUR € | Germany"
+                  - option "USD $ | United States" [selected]
+                  - option "VND ₫ | Vietnam"
+                - combobox "USD $ | United States" [ref=f5e191] [cursor=pointer]: 
+              - generic [ref=f5e197]:
+                - combobox [ref=f5e198]:
+                  - option "English" [selected]
+                  - option "العربية"
+                  - option "简体中文"
+                  - option "اردو"
+                - combobox "English" [ref=f5e199] [cursor=pointer]: 
+      - generic [ref=f5e203]: © 2025 Amayraa Store. All Rights Reserved
+    - text: 
+  - text:  
+  - alert [ref=f5e210]

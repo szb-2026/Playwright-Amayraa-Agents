@@ -1,0 +1,291 @@
+- generic [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e5]:
+      - link [active] [ref=e7] [cursor=pointer]:
+        - /url: /us
+        - img "Amayraa" [ref=e8]
+      - navigation [ref=e10]:
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - link "Shirting " [ref=e13] [cursor=pointer]:
+              - /url: /us/categories/shirting
+              - text: Shirting
+              - generic [ref=e14]: 
+          - listitem [ref=e15]:
+            - link "Tops " [ref=e16] [cursor=pointer]:
+              - /url: /us/categories/tops
+              - text: Tops
+              - generic [ref=e17]: 
+          - listitem [ref=e18]:
+            - link "Lounge " [ref=e19] [cursor=pointer]:
+              - /url: /us/categories/lounge
+              - text: Lounge
+              - generic [ref=e20]: 
+          - listitem [ref=e21]:
+            - link "Dresses " [ref=e22] [cursor=pointer]:
+              - /url: /us/categories/dresses
+              - text: Dresses
+              - generic [ref=e23]: 
+          - listitem [ref=e24]:
+            - link "Occasion " [ref=e25] [cursor=pointer]:
+              - /url: /us/categories/occasion
+              - text: Occasion
+              - generic [ref=e26]: 
+          - listitem [ref=e27]:
+            - link "About" [ref=e28] [cursor=pointer]:
+              - /url: /us/about-us
+      - list [ref=e30]:
+        - listitem [ref=e31]:
+          - link "" [ref=e32] [cursor=pointer]:
+            - /url: "#canvasSearch"
+        - listitem [ref=e34]:
+          - link "" [ref=e35] [cursor=pointer]:
+            - /url: "#authModal"
+        - listitem [ref=e37]:
+          - link " 0" [ref=e38] [cursor=pointer]:
+            - /url: "#authModal"
+            - generic [ref=e39]: 
+            - generic [ref=e40]: "0"
+        - listitem [ref=e41]:
+          - link " 0" [ref=e42] [cursor=pointer]:
+            - /url: "#shoppingCart"
+            - generic [ref=e43]: 
+            - generic [ref=e44]: "0"
+    - generic [ref=e507]:
+      - generic [ref=e509]:
+        - group "3 / 3" [ref=e510]:
+          - img "fashion-slideshow" [ref=e513]
+        - group "1 / 3" [ref=e516]:
+          - generic [ref=e517]:
+            - img "fashion-slideshow" [ref=e519]
+            - generic [ref=e521]:
+              - heading "Effortless Elegance" [level=1] [ref=e522]
+              - paragraph [ref=e523]: Natural. Breathable. Timeless
+              - link "Shop collection " [ref=e524] [cursor=pointer]:
+                - /url: /us/store
+                - generic [ref=e525]: Shop collection
+                - generic [ref=e526]: 
+        - group "2 / 3" [ref=e527]:
+          - img "fashion-slideshow" [ref=e530]
+        - group "3 / 3" [ref=e533]:
+          - img "fashion-slideshow" [ref=e536]
+        - group "1 / 3" [ref=e539]:
+          - img "fashion-slideshow" [ref=e542]
+      - generic [ref=e547]:
+        - button "Go to slide 1" [ref=e548] [cursor=pointer]
+        - button "Go to slide 2" [ref=e549] [cursor=pointer]
+        - button "Go to slide 3" [ref=e550] [cursor=pointer]
+    - generic [ref=e552]:
+      - generic [ref=e553]:
+        - generic [ref=e554]:
+          - button "Previous slide" [disabled] [ref=e555]:
+            - generic [ref=e556]: 
+          - button "Next slide" [ref=e557] [cursor=pointer]:
+            - generic [ref=e558]: 
+        - generic [ref=e559]: SHOP BY CATEGORIES
+      - generic [ref=e560]:
+        - generic [ref=e563]:
+          - group "1 / 5" [ref=e564]:
+            - generic [ref=e566]:
+              - link [ref=e567] [cursor=pointer]:
+                - /url: /us/store?category=shirting
+                - img "Shirting" [ref=e568]
+              - link "Shirting " [ref=e570] [cursor=pointer]:
+                - /url: /us/store?category=shirting
+                - generic [ref=e571]: Shirting
+                - generic: 
+          - group "2 / 5" [ref=e572]:
+            - generic [ref=e574]:
+              - link [ref=e575] [cursor=pointer]:
+                - /url: /us/store?category=tops
+                - img "Tops" [ref=e576]
+              - link "Tops " [ref=e578] [cursor=pointer]:
+                - /url: /us/store?category=tops
+                - generic [ref=e579]: Tops
+                - generic: 
+          - group "3 / 5" [ref=e580]:
+            - generic [ref=e582]:
+              - link [ref=e583] [cursor=pointer]:
+                - /url: /us/store?category=lounge
+                - img "Lounge" [ref=e584]
+              - link "Lounge " [ref=e586] [cursor=pointer]:
+                - /url: /us/store?category=lounge
+                - generic [ref=e587]: Lounge
+                - generic: 
+          - group "4 / 5" [ref=e588]:
+            - generic [ref=e590]:
+              - link [ref=e591] [cursor=pointer]:
+                - /url: /us/store?category=dresses
+                - img "Dresses" [ref=e592]
+              - link "Dresses " [ref=e594] [cursor=pointer]:
+                - /url: /us/store?category=dresses
+                - generic [ref=e595]: Dresses
+                - generic: 
+          - group "5 / 5" [ref=e596]:
+            - generic [ref=e598]:
+              - link [ref=e599] [cursor=pointer]:
+                - /url: /us/store?category=occasion
+                - img "Occasion" [ref=e600]
+              - link "Occasion " [ref=e602] [cursor=pointer]:
+                - /url: /us/store?category=occasion
+                - generic [ref=e603]: Occasion
+                - generic: 
+        - generic [ref=e605]:
+          - heading "Discover all new items" [level=5] [ref=e606]
+          - link "" [ref=e607] [cursor=pointer]:
+            - /url: /us/store
+    - button "Load more" [ref=e613] [cursor=pointer]
+    - generic [ref=e616]:
+      - generic [ref=e617]:
+        - img "Shop the look – look 1" [ref=e619]
+        - 'button "View product: Linen Button-Down Shirt" [ref=e622] [cursor=pointer]'
+      - generic [ref=e624]:
+        - img "Shop the look – look 2" [ref=e626]
+        - 'button "View product: Linen Halter Neck Dress" [ref=e629] [cursor=pointer]'
+    - generic [ref=e633]:
+      - generic [ref=e635]:
+        - group "1 / 4" [ref=e636]
+        - group "2 / 4" [ref=e637]
+        - group "3 / 4" [ref=e638]
+        - group "4 / 4" [ref=e639]
+      - button "Previous slide" [disabled] [ref=e640]:
+        - generic [ref=e641]: 
+      - button "Next slide" [ref=e642] [cursor=pointer]:
+        - generic [ref=e643]: 
+    - generic [ref=e645]:
+      - generic [ref=e647]:
+        - group "1 / 5" [ref=e648]:
+          - link [ref=e650] [cursor=pointer]:
+            - /url: /us/store?brand=Sundried%20Linen
+            - img "Sundried Linen" [ref=e651]
+        - group "2 / 5" [ref=e652]:
+          - link [ref=e654] [cursor=pointer]:
+            - /url: /us/store?brand=Anavila
+            - img "Anavila" [ref=e655]
+        - group "3 / 5" [ref=e656]:
+          - link [ref=e658] [cursor=pointer]:
+            - /url: /us/store?brand=Kaveri
+            - img "Kaveri" [ref=e659]
+        - group "4 / 5" [ref=e660]:
+          - link [ref=e662] [cursor=pointer]:
+            - /url: /us/store?brand=Bharatsthali
+            - img "Bharatsthali" [ref=e663]
+        - group "5 / 5" [ref=e664]:
+          - link [ref=e666] [cursor=pointer]:
+            - /url: /us/store?brand=Linen%20%26%20Co.
+            - img "Linen & Co." [ref=e667]
+      - link "View All Brands " [ref=e669] [cursor=pointer]:
+        - /url: /us/brands
+        - generic [ref=e670]: View All Brands
+        - generic [ref=e671]: 
+    - generic [ref=e676]:
+      - group "1 / 5" [ref=e677]
+      - group "2 / 5" [ref=e678]
+      - group "3 / 5" [ref=e679]
+      - group "4 / 5" [ref=e680]
+      - group "5 / 5" [ref=e681]
+    - generic [ref=e221]:
+      - generic [ref=e224]:
+        - generic [ref=e226]:
+          - link [ref=e228] [cursor=pointer]:
+            - /url: /us
+            - img "logo" [ref=e229]
+          - list [ref=e230]:
+            - listitem [ref=e231]:
+              - paragraph [ref=e232]: "Address: B/406, Aagam Shopping World, Vesu, Surat, Gujarat. Pincode - 395007"
+            - listitem [ref=e233]:
+              - paragraph [ref=e234]:
+                - text: "Email:"
+                - link "admin@amayraa.com" [ref=e235] [cursor=pointer]:
+                  - /url: mailto:admin@amayraa.com
+            - listitem [ref=e236]:
+              - paragraph [ref=e237]:
+                - text: "Phone:"
+                - link "+1 (742) 778-8540" [ref=e238] [cursor=pointer]:
+                  - /url: tel:+17427788540
+          - link "Get direction " [ref=e239] [cursor=pointer]:
+            - /url: /us/contact
+            - text: Get direction
+            - generic [ref=e240]: 
+          - list [ref=e241]:
+            - listitem [ref=e242]:
+              - link "" [ref=e243] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e245]:
+              - link "" [ref=e246] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e248]:
+              - link "" [ref=e249] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e251]:
+              - link "" [ref=e252] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e254]:
+              - link "" [ref=e255] [cursor=pointer]:
+                - /url: "#"
+        - generic [ref=e257]:
+          - heading "Help" [level=6] [ref=e259]
+          - list [ref=e260]:
+            - listitem [ref=e261]:
+              - link "Privacy Policy" [ref=e262] [cursor=pointer]:
+                - /url: /us/privacy-policy
+            - listitem [ref=e263]:
+              - link "Returns + Exchanges" [ref=e264] [cursor=pointer]:
+                - /url: /us/delivery-return
+            - listitem [ref=e265]:
+              - link "Shipping" [ref=e266] [cursor=pointer]:
+                - /url: /us/shipping-delivery
+            - listitem [ref=e267]:
+              - link "Terms & Conditions" [ref=e268] [cursor=pointer]:
+                - /url: /us/terms-conditions
+            - listitem [ref=e269]:
+              - link "FAQ’s" [ref=e270] [cursor=pointer]:
+                - /url: /us/faq
+            - listitem [ref=e271]:
+              - link "My Wishlist" [ref=e272] [cursor=pointer]:
+                - /url: /us/wishlist
+        - generic [ref=e273]:
+          - heading "About us" [level=6] [ref=e275]
+          - list [ref=e276]:
+            - listitem [ref=e277]:
+              - link "Our Story" [ref=e278] [cursor=pointer]:
+                - /url: /us/about-us
+            - listitem [ref=e279]:
+              - link "Visit Our Store" [ref=e280] [cursor=pointer]:
+                - /url: /us/store-locator
+            - listitem [ref=e281]:
+              - link "Contact Us" [ref=e282] [cursor=pointer]:
+                - /url: /us/contact
+            - listitem [ref=e283]:
+              - link "Account" [ref=e284] [cursor=pointer]:
+                - /url: /us/account
+        - generic [ref=e286]:
+          - heading "Sign Up for Email" [level=6] [ref=e288]
+          - generic [ref=e289]:
+            - generic [ref=e290]: Sign up to get first dibs on new arrivals, sales, exclusive content, events and more!
+            - generic [ref=e292]:
+              - group [ref=e293]:
+                - textbox "Enter your email...." [ref=e294]
+              - button "Subscribe " [ref=e296] [cursor=pointer]:
+                - text: Subscribe
+                - generic [ref=e297]: 
+            - generic [ref=e298]:
+              - generic [ref=e300]:
+                - combobox [ref=e301]:
+                  - option "EUR € | France"
+                  - option "EUR € | Germany"
+                  - option "USD $ | United States" [selected]
+                  - option "VND ₫ | Vietnam"
+                - combobox "USD $ | United States" [ref=e302] [cursor=pointer]: 
+              - generic [ref=e308]:
+                - combobox [ref=e309]:
+                  - option "English" [selected]
+                  - option "العربية"
+                  - option "简体中文"
+                  - option "اردو"
+                - combobox "English" [ref=e310] [cursor=pointer]: 
+      - generic [ref=e314]: © 2025 Amayraa Store. All Rights Reserved
+    - text: 
+  - text:  
+  - alert [ref=e321]: Amayraa | Premium Fashion Storefront
+  - text:  
